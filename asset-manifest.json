@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cinema-NOXE/static/css/main.6d4848e7.chunk.css",
+    "main.js": "/Cinema-NOXE/static/js/main.2d921595.chunk.js",
+    "main.js.map": "/Cinema-NOXE/static/js/main.2d921595.chunk.js.map",
+    "runtime-main.js": "/Cinema-NOXE/static/js/runtime-main.c40ed9f2.js",
+    "runtime-main.js.map": "/Cinema-NOXE/static/js/runtime-main.c40ed9f2.js.map",
+    "static/css/2.80fc8c49.chunk.css": "/Cinema-NOXE/static/css/2.80fc8c49.chunk.css",
+    "static/js/2.acc9f697.chunk.js": "/Cinema-NOXE/static/js/2.acc9f697.chunk.js",
+    "static/js/2.acc9f697.chunk.js.map": "/Cinema-NOXE/static/js/2.acc9f697.chunk.js.map",
+    "index.html": "/Cinema-NOXE/index.html",
+    "static/css/2.80fc8c49.chunk.css.map": "/Cinema-NOXE/static/css/2.80fc8c49.chunk.css.map",
+    "static/css/main.6d4848e7.chunk.css.map": "/Cinema-NOXE/static/css/main.6d4848e7.chunk.css.map",
+    "static/js/2.acc9f697.chunk.js.LICENSE.txt": "/Cinema-NOXE/static/js/2.acc9f697.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Cinema-NOXE/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c40ed9f2.js",
+    "static/css/2.80fc8c49.chunk.css",
+    "static/js/2.acc9f697.chunk.js",
+    "static/css/main.6d4848e7.chunk.css",
+    "static/js/main.2d921595.chunk.js"
+  ]
+}
