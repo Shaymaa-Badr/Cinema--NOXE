@@ -9,7 +9,7 @@ export default class Navbar extends Component {
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark text-capitalize">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
-             Cinema NOXE
+             CNOXE
             </a>
             <button
               className="navbar-toggler"
