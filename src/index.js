@@ -6,9 +6,8 @@ import 'jquery/dist/jquery.min.js';
 import 'popper.js/dist/umd/popper.min.js';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import './index.css';
 import { BrowserRouter } from 'react-router-dom';
-
+import './index.css';
 
 ReactDOM.render(
   <BrowserRouter>
